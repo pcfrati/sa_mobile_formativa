@@ -1,3 +1,5 @@
+//& categoria model
+
 class Categoria{
 
   //& atributos
